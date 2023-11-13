@@ -3,10 +3,10 @@
 * You may also refer to the screenshot images below in case the link becomes inaccessible
 
   ### Current Technology Usage Dashboard
-  ![image](https://github.com/yanteing/IBM_CapstoneProject/blob/master/Current%20Technology%20Usage%20Dashboard.png)
+  ![image](https://github.com/yanteing/IBM_CapstoneProject/blob/master/Appendix/Current%20Technology%20Usage%20Dashboard.png)
 
   ### Future Technology Dashboard
-  ![image](https://github.com/yanteing/IBM_CapstoneProject/blob/master/Future%20Technology%20Dashboard.png)
+  ![image](https://github.com/yanteing/IBM_CapstoneProject/blob/master/Appendix/Future%20Technology%20Dashboard.png)
 
   ### Demographic Dashboard
-  ![image](https://github.com/yanteing/IBM_CapstoneProject/blob/master/Demographic%20Dashboard.png)
+  ![image](https://github.com/yanteing/IBM_CapstoneProject/blob/master/Appendix/Demographic%20Dashboard.png)
